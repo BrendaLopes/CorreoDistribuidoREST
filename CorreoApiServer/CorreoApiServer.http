@@ -1,0 +1,6 @@
+@CorreoApiServer_HostAddress = http://localhost:5130
+
+GET {{CorreoApiServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
